@@ -1,8 +1,6 @@
 <?php
 echo "=====================\n";
-echo "Im Tobz\n";
-echo "From TobzCyberTeam\n";
-echo "Script By SGB Team\n";
+echo "Im Hitesh\n";
 echo "=====================\n\n";
 echo "Masukan Nomor 081271xxxxxx\nInput : ";
 $nomer = trim(fgets(STDIN));
